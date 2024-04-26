@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    font-family: sans-serif;
     background-color: rgb(59, 59, 59);
 }
 
@@ -9,8 +8,7 @@ header {
 }
 
 header h1{
-    background-color: rgb(59, 59, 59);
-    font-family: cursive;
+    background-color: rgb(59, 59, 59);;
     color: aliceblue;
     background-color: rgb(25, 25, 25);
 
@@ -103,6 +101,17 @@ footer img {
 .image-wrapper a {
     text-align: center;
 }
+
+
+
+
+
+    
+
+
+
+
+
 
 
 
